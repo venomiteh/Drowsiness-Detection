@@ -58,7 +58,7 @@ Edit
 python DrowsinessDetection.py
 Press q to exit the application.
 
-⚠️ Notes
+##⚠️ Notes
 Ensure good lighting for more accurate landmark detection.
 
 Model accuracy may vary depending on training quality and input resolution.
